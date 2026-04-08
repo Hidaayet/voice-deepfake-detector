@@ -1,0 +1,15 @@
+# Audio data — large files
+data/
+*.wav
+*.flac
+*.mp3
+
+# Model files
+*.pt
+*.pth
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
